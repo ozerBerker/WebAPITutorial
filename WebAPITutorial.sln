@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPITutorial", "WebAPITutorial\WebAPITutorial.csproj", "{9F4D2021-CD2C-4F5C-A050-DB5B65F7765E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{66E1300E-ABF2-4E38-BFBC-2A60EE7E99F0}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F4D2021-CD2C-4F5C-A050-DB5B65F7765E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4D2021-CD2C-4F5C-A050-DB5B65F7765E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4D2021-CD2C-4F5C-A050-DB5B65F7765E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4D2021-CD2C-4F5C-A050-DB5B65F7765E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3B165C8-774D-4F70-A23C-2F4289EAF9BE}
+	EndGlobalSection
+EndGlobal
